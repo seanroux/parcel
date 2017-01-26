@@ -1,0 +1,22 @@
+{
+  "name": "seanroux/parcel",
+  "type": "library",
+  "license": "MIT",
+  "authors": [{
+      "name": "Sean Roux",
+      "email": "sean@mytimeslot.co.za",
+      "homepage": "https://github.com/seanroux",
+      "role": "Creator"
+    }],
+    "description": "Library to assist in the creation of shipment parcels",
+    "keywords": ["sean", "roux", "parcel", "package", "boxpacker", "box", "item"],
+    "require-dev": {
+    },
+    "require": {
+    },
+    "autoload": {
+      "psr-4": {
+        "SeanRoux\\Parcel": "src/"
+      }
+    }
+}
