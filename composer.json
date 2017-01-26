@@ -13,6 +13,7 @@
     "require-dev": {
     },
     "require": {
+      "dvdoug/boxpacker": "^2.0",
     },
     "autoload": {
       "psr-4": {
