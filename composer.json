@@ -16,7 +16,7 @@
     },
     "autoload": {
       "psr-4": {
-        "SeanRoux\\Parcel": "src/"
+        "SeanRoux\\Parcel\\": "src/"
       }
     }
 }
