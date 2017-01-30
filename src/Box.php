@@ -2,7 +2,7 @@
 
 namespace SeanRoux\Parcel;
 
-use BoxPacker\Box as BoxInterface;
+use DVDoug\BoxPacker\Box as BoxInterface;
 
 class Box implements BoxInterface
 {

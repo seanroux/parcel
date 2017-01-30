@@ -2,7 +2,7 @@
 
 namespace SeanRoux\Parcel;
 
-use BoxPacker\Item as ItemInterface;
+use DVDoug\BoxPacker\Item as ItemInterface;
 
 class Item implements ItemInterface
 {
